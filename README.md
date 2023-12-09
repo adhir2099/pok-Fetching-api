@@ -1,7 +1,11 @@
 <h1 align="center"> 👋 Easy Pokédex</h1>
 
 # VANILLA JS POKÉDEX
-Using vanilla JS to fetch data from <a href="https://pokeapi.co/api/v2/">pokéapi</a> to generate our pokédex
+Using vanilla JS to fetch data from <a href="https://pokeapi.co">pokéapi</a> to generate our pokédex
+<p>Showing correct order of Pokémon, not in disordered arrange</p>
+<p>Working pagination</p>
+<p>Fetching info from API</p>
+<p>Bootstrap and some custom CSS for UI</p>
 
 ## Frontend
 <p align="left">
@@ -11,7 +15,7 @@ Using vanilla JS to fetch data from <a href="https://pokeapi.co/api/v2/">pokéap
 </p>
 
 ## API used
-<a href="https://pokeapi.co/api/v2/">pokéapi</a>
+<a href="https://pokeapi.co">pokéapi</a>
 
 ## Initialize
 <details>
@@ -33,8 +37,8 @@ Using vanilla JS to fetch data from <a href="https://pokeapi.co/api/v2/">pokéap
 4. Push to the branch: `git push origin your-branch`
 5. Submit a PR
 
-<h3 align="left">Get in touch with me:</h3>
+<h3 align="left">Get in touch with me 🤝:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/adhir-serrano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adhir2099" height="30" width="40" /></a>
 </p>
-<p align="right" > Created with 🧡 by <a href="https://github.com/adhir2099">Adhir2099</a></p>
+<p align="right" > Created with ❤️ by <a href="https://github.com/adhir2099">Adhir2099</a></p>
