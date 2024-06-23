@@ -1,5 +1,12 @@
 <h1 align="center"> 👋 Easy Pokédex</h1>
 
+## Demo URL
+<p align="left">
+  <a href="https://3moondev.com/demos/pokApi/">
+    <b>Visit demo here</b>
+  </a>
+</p>
+
 # VANILLA JS POKÉDEX
 Using vanilla JS to fetch data from <a href="https://pokeapi.co">pokéapi</a> to generate our pokédex
 <p>Showing correct order of Pokémon, not in disordered arrange</p>
